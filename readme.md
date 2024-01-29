@@ -6,8 +6,15 @@
 This is a cloudflare worker that redirects the content of a github repo file you are reading to phind.com with a prompt (asking to explain the code)
 
 
-https://github.com/fauzaanu/github/assets/86226565/37f74aca-e95f-4935-a078-9ca86d03d252
 
+https://github.com/fauzaanu/github/assets/86226565/a43cce48-c0e9-44a6-b6a6-18ad32178c29
+
+
+
+> [!TIP]
+>For quick URL editing: `CTRL` + `L`
+> 
+>Use `CTRL` + `ARROW_R` / `ARRW_L` to move quickly between the sections of URL
 
 
 #### Normal Situation
