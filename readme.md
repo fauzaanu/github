@@ -25,6 +25,9 @@ https://github.com/fauzaanu/github/assets/86226565/37f74aca-e95f-4935-a078-9ca86
 4. The worker takes over, grabs content from the raw file and redirects you to phind.com with a prompt (asking to explain the code)
 5. The model explains it to you
 
+> [!TIP]
+> If the domain is on cloudflare no DNS setup would be needed (adding directly from the worker works)
+
 [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/fauzaanu/github)
 
 Suggestions? PRs? Issues? Please do so!
