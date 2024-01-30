@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Search on Phind",
+  "version": "1.0",
+  "description": "Button to search on Phind, Directly from Github",
+  "permissions": [
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "*://github.com/*"
+      ],
+      "js": [
+        "content.js"
+      ]
+    }
+  ],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
